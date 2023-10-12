@@ -10,3 +10,4 @@ aklavya-07/aklavya-07 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 ---
 #  💞️ Welcome To My GitHub Profile 💞️
+now i am in 3rd sem
